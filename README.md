@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Matt Barnabo</h1>
 <h3 align="center">Full stack web developer | React | Ruby on Rails</h3>
 
-- 🔭 I’m currently working on [My portofolio](https://github.com/MattBarnabo/portfolio.git)
+- 🔭 I’m currently working on [My portofolio](mattbarnabo.com)
 
-- 🌱 I’m currently learning **React, Ruby on Rails, PostgreSQL**
+- 🌱 I’m currently learning **React, Ruby on Rails, PostgreSQL, Tailwind**
 
 - 📫 How to reach me **mattbarnabo@gmail.com**
 
